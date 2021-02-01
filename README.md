@@ -8,13 +8,13 @@
 
 Welcome to my profile! Im <em>Software Engineer Web Platform</em> and I have a high interest in data and <em>Machine Learning</em>
 
-### A little more about me
+### ⚡️ A little more about me
 
 ```javascript
 const haris0 = {
     pronouns: "He" | "Him",
     nickname: "Haris",
-    code: ["Javascript", "Python", "Java"],
+    code: ["Javascript", "Python"],
     interested: ["Front-end", "Machine Learning"],
     technologies: {
         frontEnd: {
@@ -31,7 +31,18 @@ const haris0 = {
     quotes: "Make It Work, Make It Right, Make It Fast (Kent Beck)"
 };
 ```
-### My GitHub Stats
+### 🚀 Some Languages and Tools I Use
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
+</p>
+
+<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haris0&show_icons=true&line_height=27&theme=tokyonight&hide=contribs,prs&custom_title=Haris0's GitHub Stats" alt="haris0" />
 
 
