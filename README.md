@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haris0&show_icons=true&line_height=27&hide=contribs,prs&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="haris0's GitHub Stats" />
-</a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haris0&show_icons=true&line_height=27&theme=tokyonight&hide=contribs,prs" alt="haris0" />
 
 <!--
 **haris0/haris0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
