@@ -15,17 +15,20 @@ const haris0 = {
     pronouns: "He" | "Him",
     nickname: "Haris",
     code: ["Javascript", "Python"],
-    interested: ["Front-end", "Machine Learning"],
+    interested: ["Frontend", "Backend", "Machine Learning"],
     technologies: {
         frontEnd: {
             js: ["vue", "react"],
             css: ["ant-design", "chakra-ui", "bootstrap"]
         },
+        backEnd: {
+            js: ["nestJs", "hapi"],
+            db: ["mongo", "mySql", "sqlite"]
+        },
         machineLearning: {
             python: ["sklearn", "keras", "pandas", "numpy"],
             algorithms: ["logistic regression", "SVM", "convolution neural network", "xgboost"]
         },
-        databases: ["mongo", "mySql", "sqlite"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     quotes: "Make It Work, Make It Right, Make It Fast (Kent Beck)"
