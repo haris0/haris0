@@ -14,7 +14,7 @@ Welcome to my profile! Im <em>Software Engineer Web Platform</em> and I have a h
 const haris0 = {
     pronouns: "He" | "Him",
     nickname: "Haris",
-    code: ["Javascript", "Python"],
+    code: ["Javascript", "Typescript", "Python"],
     interested: ["Frontend", "Backend", "Machine Learning"],
     technologies: {
         frontEnd: {
