@@ -18,8 +18,8 @@ const haris0 = {
     interested: ["Frontend", "Backend", "Machine Learning"],
     technologies: {
         frontEnd: {
-            js: ["vue", "react"],
-            css: ["ant-design", "chakra-ui", "bootstrap"]
+            js: ["react", "next", "vue"],
+            css: ["scss", "styled-components", "bootstrap"]
         },
         backEnd: {
             js: ["nestJs", "hapi"],
@@ -30,7 +30,7 @@ const haris0 = {
             algorithms: ["logistic regression", "SVM", "convolution neural network", "xgboost"]
         },
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications", "Server Side Rendering"],
     quotes: "Make It Work, Make It Right, Make It Fast (Kent Beck)"
 };
 ```
