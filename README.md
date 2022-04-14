@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hari.surriyad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hari.surriyad@gmail.com)](mailto:hari.surriyad@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/haris0?label=Follow&style=social)
 
-Welcome to my profile! Im <em>Software Engineer</em> and I have a high interest in data and <em>Machine Learning</em>
+Welcome to my profile! Im <em>Software Engineer</em> and I have a high interest in <em>End to end Web Development</em>
 
 ### ⚡️ A little more about me
 
