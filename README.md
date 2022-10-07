@@ -45,10 +45,6 @@ const haris0 = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
 </p>
 
-<br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haris0&show_icons=true&line_height=27&theme=tokyonight&hide=contribs,prs&custom_title=Haris0's GitHub Stats" alt="haris0" />
-
-
 <!--
 **haris0/haris0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
