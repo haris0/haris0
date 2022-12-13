@@ -30,7 +30,6 @@ const haris0 = {
             algorithms: ["logistic regression", "SVM", "convolution neural network", "xgboost"]
         },
     },
-    architecture: ["Progressive web applications", "Single page applications", "Server Side Rendering"],
     quotes: "Make It Work, Make It Right, Make It Fast (Kent Beck)"
 };
 ```
