@@ -1,4 +1,4 @@
-<p><h1 align="center"> Hi, Haris here! <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1> 
+<p><h1 align="center"> Hallo, I'm Haris! <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-haris0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haris0/)](https://www.linkedin.com/in/haris0/)
 [![Kaggle Badge](https://img.shields.io/badge/haris0-20BEFF?&style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/haris0)](https://www.kaggle.com/haris0)
