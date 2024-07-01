@@ -14,11 +14,11 @@ Welcome to my profile! Im <em>Software Engineer</em> and I have a high interest 
 const haris0 = {
     pronouns: "He" | "Him",
     nickname: "Haris",
-    code: ["Javascript", "Typescript", "Python"],
+    programmingLanguage: ["Typescript", "Javascript", "Python"],
     interested: ["Frontend", "Backend", "Machine Learning"],
     technologies: {
         frontEnd: {
-            js: ["react", "next", "vue"],
+            js: ["react", "next", "vue", "nuxt"],
             css: ["scss", "styled-components", "bootstrap"]
         },
         backEnd: {
