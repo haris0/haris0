@@ -23,11 +23,7 @@ const haris0 = {
         },
         backEnd: {
             js: ["nestJs", "hapi"],
-            db: ["mongo", "mySql", "sqlite"]
-        },
-        machineLearning: {
-            python: ["sklearn", "keras", "pandas", "numpy"],
-            algorithms: ["logistic regression", "SVM", "convolution neural network", "xgboost"]
+            db: ["mongo", "postgres", "sqlite"]
         },
     },
     quotes: "Make It Work, Make It Right, Make It Fast (Kent Beck)"
