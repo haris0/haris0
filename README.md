@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hari.surriyad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hari.surriyad@gmail.com)](mailto:hari.surriyad@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/haris0?label=Follow&style=social)
 
-Welcome to my profile! Im <em>Senior Software Engineer</em> building fast, scalable products end-to-end. Shipping with TypeScript, React/Next.js, and Node.js, with a growing focus on LLM-powered apps (RAG, LangChain, AWS Bedrock). Into observability, clean architecture, and turning messy real-world problems into production-ready systems.
+<em>Senior Software Engineer</em> building fast, scalable products end-to-end. Shipping with TypeScript, React/Next.js, and Node.js, with a growing focus on LLM-powered apps (RAG, LangChain, AWS Bedrock). Into observability, clean architecture, and turning messy real-world problems into production-ready systems.
 
 ### ⚡️ A little more about me
 
